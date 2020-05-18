@@ -11,3 +11,8 @@ Files Description:
 
 - Final_Text.ipynb file contains the code for performing the sentiment analysis using polarity scores and identify the best/worst features of the company using N-grams and Cosine Similarity.
 
+Tableau Dashboard:
+
+Link - https://public.tableau.com/profile/sagar.surendra.kulkarni#!/vizhome/Text_Analytics_Updated/Dashboard1
+
+![](/Tableau%20Dashboard%20file/Dashboard%201%20(1).png)
